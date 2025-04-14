@@ -1,2 +1,11 @@
-# Quantum-Circuit-Solver-with-BlueQubit_Hackathon2025
-Uses Qiskit and BlueQubit platform to simulate quantum circuits, with varying qubit size measurements, to identify hidden bitstrings in circuits with 4, 28, and 44 qubits. Uses BlueQubit's advanced quantum processing units (QPU) and CPU APIs for execution of code in a high-data rate Jupyter Notebook to handle large quantum datasets
+# Quantum-Circuit-Solver-with-BlueQubit
+Leverage Qiskit and BlueQubit platform to simulate quantum circuits, with varying qubit size measurements to identify hidden bitstrings in circuits with 4, 28, and 44 qubits. Uses BlueQubit's advanced quantum processing units (QPU) and high-performance CPU cluster APIs backends for execution of code in a high-data rate Jupyter Notebook to handle large quantum datasets.
+
+# How to Get Started
+First, download the three circuit measurement files ".qasm" for each code solver. Note the directory and update the directory code line for your local storage. Obtain a BlueQubit API and insert it into the code. 
+
+# Acknowledgements
+Thank you to BlueQubit for providing me a credit to obtain an API to use their advanced quantum processing units (QPU) and high-performance CPU cluster backends
+
+# Citation
+Please ensure your use of this code, modification of this code, or other, provides me credit by listing: Jamie Kraus. Thank you.
